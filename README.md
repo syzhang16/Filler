@@ -15,7 +15,7 @@ Writing a Filler player is a very interesting algorithmic challenge. Each turn, 
 
 ### Instructions
 #### The Filler
-* Executable's name <login>.filler.
+* Executable's name: `<login>.filler`
 * Two players fight each other. They play one after the other.
 * The goal is to collect as many points as possible by placing the highest number ofpieces on the the game board.
 * The board is defined by X columns and N lines, it will then become X*N cells.
